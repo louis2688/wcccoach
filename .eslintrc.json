@@ -31,6 +31,8 @@
           "checksVoidReturn": false
         }
       ],
+      "react/no-unescaped-entities": "off",
+      "@next/next/no-page-custom-font": "off",
       "no-underscore-dangle": "off",
       "react/react-in-jsx-scope": "off",
       "react/prop-types": "off",

@@ -34,14 +34,9 @@ const Footer01 = ({ mode }: TProps) => {
                 </div>
                 <p className="copyright tw-text-center tw-text-md tw-text-gray-400 tw-mt-5">
                     &copy; {new Date().getFullYear()} WCCC Coach.{" "}
-                    <a
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        href="#"
-                        onClick={(e) => e.preventDefault()}
-                    >
+                    <button type="button" onClick={(e) => e.preventDefault()}>
                         All Rights Reserved
-                    </a>
+                    </button>
                 </p>
             </div>
         </footer>
