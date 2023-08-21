@@ -47,3 +47,6 @@ public/workbox-*.js
 /public/robots.txt
 /public/sitemap.xml
 /public/sitemap-*.xml
+
+package-lock.json
+yarn.lock
