@@ -23,7 +23,7 @@ module.exports = withPWA(
     withReactSvg({
         reactStrictMode: false,
         images: {
-            // unoptimized: true,
+            unoptimized: false,
         },
         webpack(config) {
             return config;
