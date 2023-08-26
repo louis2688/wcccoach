@@ -1,10 +1,12 @@
-import type { GetStaticPaths, NextPage } from "next";
+// import type { GetStaticPaths, NextPage } from "next";
+import type { NextPage } from "next";
 import SEO from "@components/seo/page-seo";
 import Layout01 from "@layout/layout-01";
 import Breadcrumb from "@components/breadcrumb";
 import BlogArea from "@containers/blog-full/layout-02";
 import { BlogMetaType, IBlog } from "@utils/types";
-import { flatDeep, unslugify, toCapitalize } from "@utils/methods";
+// import { flatDeep, unslugify, toCapitalize } from "@utils/methods";
+import { toCapitalize } from "@utils/methods";
 // import {
 //     getAllBlogs,
 //     getPostsByCategory,
@@ -27,7 +29,7 @@ type PageProps = NextPage<TProps> & {
     Layout: typeof Layout01;
 };
 
-const POSTS_PER_PAGE = 8;
+// const POSTS_PER_PAGE = 8;
 
 const BlogCategoryPage: PageProps = ({
     data: {
@@ -69,10 +71,10 @@ const BlogCategoryPage: PageProps = ({
 
 BlogCategoryPage.Layout = Layout01;
 
-type Param = {
-    category: string;
-    page: string;
-};
+// type Param = {
+//     category: string;
+//     page: string;
+// };
 
 // export const getStaticPaths: GetStaticPaths = () => {
 //     const { blogs } = getAllBlogs(["category"]);
