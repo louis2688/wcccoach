@@ -46,42 +46,42 @@ export default [
                 id: 12,
                 title: "Group 02",
                 submenu: [
-                    {
-                        id: 121,
-                        label: "Health Coaching",
-                        path: "/",
-                        status: "coming soon",
-                    },
-                    {
-                        id: 122,
-                        label: "Gym Coaching",
-                        path: "/",
-                        status: "coming soon",
-                    },
-                    {
-                        id: 123,
-                        label: "Business",
-                        path: "/",
-                        status: "coming soon",
-                    },
-                    {
-                        id: 124,
-                        label: "Artist",
-                        path: "/",
-                        status: "coming soon",
-                    },
-                    {
-                        id: 125,
-                        label: "Kitchen Coach",
-                        path: "/",
-                        status: "coming soon",
-                    },
-                    {
-                        id: 126,
-                        label: "Motivation",
-                        path: "/",
-                        status: "coming soon",
-                    },
+                    // {
+                    //     id: 121,
+                    //     label: "Health Coaching",
+                    //     path: "/",
+                    //     status: "coming soon",
+                    // },
+                    // {
+                    //     id: 122,
+                    //     label: "Gym Coaching",
+                    //     path: "/",
+                    //     status: "coming soon",
+                    // },
+                    // {
+                    //     id: 123,
+                    //     label: "Business",
+                    //     path: "/",
+                    //     status: "coming soon",
+                    // },
+                    // {
+                    //     id: 124,
+                    //     label: "Artist",
+                    //     path: "/",
+                    //     status: "coming soon",
+                    // },
+                    // {
+                    //     id: 125,
+                    //     label: "Kitchen Coach",
+                    //     path: "/",
+                    //     status: "coming soon",
+                    // },
+                    // {
+                    //     id: 126,
+                    //     label: "Motivation",
+                    //     path: "/",
+                    //     status: "coming soon",
+                    // },
                 ],
             },
             {
