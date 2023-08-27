@@ -18,15 +18,15 @@ High quality education can make all the difference in people’s lives. It helps
 
 Instead, online courses are becoming increasingly popular, and there are many reasons why they’re the future of education.
 
-1. Online learning offers convenience and flexibility
+1. Online Coaching offers convenience and flexibility
 2. High-quality student-tutor interactions
 3. Studying online is affordable for many people
-4. All age groups benefit from online learning
+4. All age groups benefit from Online Coaching
 5. More students can be enrolled
-6. There’s a vast amount of online learning resources
+6. There’s a vast amount of Online Coaching resources
 7. Web-based learning will grow in popularity
 
-**Online learning offers convenience and flexibility**
+**Online Coaching offers convenience and flexibility**
 
 Flexibility is one of the key reasons behind the growing demand for web-based learning. According to survey results published by the university ranking website Best Colleges, 59% of students who enroll in online education programs have children and 50% of them are employed. They highly value the opportunity to study when they can, as lectures are typically archived for later reference, making compulsory campus attendance a thing of the past. Also, they can work faster or slower on course material, depending on their current needs and understanding of the subject matter.
 

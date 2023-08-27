@@ -1,5 +1,5 @@
 ---
-title: Five Essential Online Learning Strategies
+title: Five Essential Online Coaching Strategies
 postedAt: "2022-06-22T20:30:00.000Z"
 author: 2
 image: { src: "/images/blog/blog-06.jpg" }
@@ -12,11 +12,11 @@ is_featured: false
 views: 329
 ---
 
-Online learning environment can seem intimidating to students who haven’t tried it. But, according to Dr. Jennifer Bachner, Director of the MS in Government Analytics and Certificate in Government Analytics, online learning isn’t much different than a classroom.
+Online Coaching environment can seem intimidating to students who haven’t tried it. But, according to Dr. Jennifer Bachner, Director of the MS in Government Analytics and Certificate in Government Analytics, Online Coaching isn’t much different than a classroom.
 
-> By employing a few essential strategies, any student can learn not only to succeed, but to flourish in the online learning environment.
+> By employing a few essential strategies, any student can learn not only to succeed, but to flourish in the Online Coaching environment.
 
-Top five strategies for success in online learning:
+Top five strategies for success in Online Coaching:
 
 ### 1. Devote consistent blocs of time to the class
 

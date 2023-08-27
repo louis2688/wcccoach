@@ -14,7 +14,7 @@ views: 786
 
 Online teaching is increasingly common at many types of higher education institutions, ranging from hybrid courses that offer a combination of in-person and online instruction, to fully online experiences and distance learning. The following resources provide guidelines for creating an online course, best practices for teaching online, and strategies for assessing the quality of online education
 
-> Online references for the following topics: instructor and student roles, building online learning communities, online course design, examples of online courses and degree programs, etc.
+> Online references for the following topics: instructor and student roles, building Online Coaching communities, online course design, examples of online courses and degree programs, etc.
 
 CRLT Occasional Paper #18: Online Teaching (Zhu, Dezure, & Payette, 2003)
 This paper explores key questions to consider when planning an online course and provides guidelines for effective instructional practices.

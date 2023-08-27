@@ -12,11 +12,11 @@ is_featured: false
 views: 657
 ---
 
-Online learning environment can seem intimidating to students who haven’t tried it. But, according to Dr. Jennifer Bachner, Director of the MS in Government Analytics and Certificate in Government Analytics, online learning isn’t much different than a classroom.
+Online Coaching environment can seem intimidating to students who haven’t tried it. But, according to Dr. Jennifer Bachner, Director of the MS in Government Analytics and Certificate in Government Analytics, Online Coaching isn’t much different than a classroom.
 
-> By employing a few essential strategies, any student can learn not only to succeed, but to flourish in the online learning environment.
+> By employing a few essential strategies, any student can learn not only to succeed, but to flourish in the Online Coaching environment.
 
-Top five strategies for success in online learning:
+Top five strategies for success in Online Coaching:
 
 ### 1. Devote consistent blocs of time to the class
 
