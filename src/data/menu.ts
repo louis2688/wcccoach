@@ -10,7 +10,7 @@ export default [
                 submenu: [
                     {
                         id: 111,
-                        label: "MaxCoach Education",
+                        label: "WCCCoach Education",
                         path: "/",
                         status: "hot",
                     },
